@@ -1,4 +1,3 @@
-# softwaremetrics
 # Tópicos Avançados em Novas Tecnologias - Métricas de Software
 
 ## Índice
